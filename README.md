@@ -108,13 +108,15 @@ print(query_result)
 
 ## Output:
 
-![image](https://github.com/shalinikannan23/Ex-3--AAI/assets/118656529/52909dc5-6e0b-4f0c-ad2d-ab4b9854cf6d)
+<td width=60%>
+   
+<img height=20% width=60% src="https://github.com/shalinikannan23/Ex-3--AAI/assets/118656529/52909dc5-6e0b-4f0c-ad2d-ab4b9854cf6d">
 
-![image](https://github.com/shalinikannan23/Ex-3--AAI/assets/118656529/35d3f58d-a178-4134-bc63-8d82c8630a40)
+<img height=20% width=60% src="https://github.com/shalinikannan23/Ex-3--AAI/assets/118656529/35d3f58d-a178-4134-bc63-8d82c8630a40">
 
-![image](https://github.com/shalinikannan23/Ex-3--AAI/assets/118656529/56228a63-1f62-462c-a065-2218aeecb719)
+<img height=20% width=60% src="https://github.com/shalinikannan23/Ex-3--AAI/assets/118656529/56228a63-1f62-462c-a065-2218aeecb719">
 
-
+</td>
 
 
 ## Result:
